@@ -19,14 +19,14 @@ A modern productivity application built with Flutter that helps users manage dai
 <div align="center">
 <table>
   <tr>
-    <td align="center"><b>Login</b></td>
-    <td align="center"><b>Dashboard</b></td>
-    <td align="center"><b>Add Missions</b></td>
+    <td align="center" width="33%"><b>Login</b></td>
+    <td align="center" width="33%"><b>Dashboard</b></td>
+    <td align="center" width="33%"><b>Add Missions</b></td>
   </tr>
   <tr>
-    <td><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mAITsHkhKnIJrSwlyegtNUuWOPa0Dz6qmCvVj" max-height="320px" alt="Login"/></td>
-    <td><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mAd6n0LhKnIJrSwlyegtNUuWOPa0Dz6qmCvVj" max-height="320px" alt="Dashboard"/></td>
-    <td><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mjoRcUjXLoRXyskKNlcOh8wAuYEt6baCHIPiQ" max-height="320px" alt="Add Missions"/></td>
+    <td align="center"><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mAITsHkhKnIJrSwlyegtNUuWOPa0Dz6qmCvVj" height="320" alt="Login"/></td>
+    <td align="center"><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mAd6n0LhKnIJrSwlyegtNUuWOPa0Dz6qmCvVj" height="320" alt="Dashboard"/></td>
+    <td align="center"><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mjoRcUjXLoRXyskKNlcOh8wAuYEt6baCHIPiQ" height="320" alt="Add Missions"/></td>
   </tr>
   <tr>
     <td align="center"><b>My Tasks (Today)</b></td>
@@ -34,9 +34,9 @@ A modern productivity application built with Flutter that helps users manage dai
     <td align="center"><b>Routine</b></td>
   </tr>
   <tr>
-    <td><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mudibzuN9jWKdpPAfgr0khw6JNbaDFveLUsxZ" max-height="320px" alt="Today Missions"/></td>
-    <td><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mTJeCoLcLYy8DKQ3aR5t2cPexSjsgbABJ71iw" max-height="320px" alt="Completed Tasks"/></td>
-    <td><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mDdnBykpu2NZej17c3HInterT5VIkY9PiyJ" max-height="320px" alt="Routine"/></td>
+    <td align="center"><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mudibzuN9jWKdpPAfgr0khw6JNbaDFveLUsxZ" height="320" alt="Today Missions"/></td>
+    <td align="center"><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mTJeCoLcLYy8DKQ3aR5t2cPexSjsgbABJ71iw" height="320" alt="Completed Tasks"/></td>
+    <td align="center"><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mDdnBykpu2NZej17c3HInterT5VIkY9PiyJ" height="320" alt="Routine"/></td>
   </tr>
   <tr>
     <td align="center"><b>Calendar</b></td>
@@ -44,16 +44,19 @@ A modern productivity application built with Flutter that helps users manage dai
     <td align="center"><b>Life Tracker (Yearly)</b></td>
   </tr>
   <tr>
-    <td><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mEAe6GmnJOBT83LFgp40SuHYjxv7nVsZCNqcX" max-height="320px" alt="Calendar"/></td>
-    <td><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mZ835L9klTZa7g9i5Cm3SsKNy8HYewnthv0R2" max-height="320px" alt="Monthly Calendar"/></td>
-    <td><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mW6jmNuLc1f3rxiDUHZsLbIKe09n2zuW5otQj" max-height="320px" alt="Yearly Calendar"/></td>
+    <td align="center"><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mEAe6GmnJOBT83LFgp40SuHYjxv7nVsZCNqcX" height="320" alt="Calendar"/></td>
+    <td align="center"><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mZ835L9klTZa7g9i5Cm3SsKNy8HYewnthv0R2" height="320" alt="Monthly Calendar"/></td>
+    <td align="center"><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mW6jmNuLc1f3rxiDUHZsLbIKe09n2zuW5otQj" height="320" alt="Yearly Calendar"/></td>
   </tr>
   <tr>
     <td align="center" colspan="3"><b>Profile and Settings</b></td>
   </tr>
   <tr>
-    <td align="center" colspan="3"><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mnFPqpG7rMumseGiHLxEFCPR8vZ1lJ7w0DYX9" max-height="320px" alt="Profile"/></td>
-      <td align="center" colspan="3"><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mXMjCsfQzI78T9nX5CYkVuEiWwLAeqf60lorR" max-height="320px" alt="Profile"/></td>
+    <td align="center" colspan="3">
+      <img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mnFPqpG7rMumseGiHLxEFCPR8vZ1lJ7w0DYX9" height="320" alt="Profile"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mXMjCsfQzI78T9nX5CYkVuEiWwLAeqf60lorR" height="320" alt="Settings"/>
+    </td>
   </tr>
 </table>
 </div>
@@ -85,7 +88,7 @@ A modern productivity application built with Flutter that helps users manage dai
 | **Framework** | Flutter |
 | **Language** | Dart |
 | **State Management** | GetX |
-| **Backend / Auth** | Firebase Suite |
+| **Backend / Auth** | Nodejs & Firebase |
 | **Database** | PostgreSQL |
 | **Architecture** | MVC (Model-View-Controller) |
 | **Version Control** | Git & GitHub |
