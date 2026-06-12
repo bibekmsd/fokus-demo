@@ -36,7 +36,7 @@ A modern productivity application built with Flutter that helps users manage dai
   <tr>
     <td align="center"><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mudibzuN9jWKdpPAfgr0khw6JNbaDFveLUsxZ" height="320" alt="Today Missions"/></td>
     <td align="center"><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mTJeCoLcLYy8DKQ3aR5t2cPexSjsgbABJ71iw" height="320" alt="Completed Tasks"/></td>
-    <td align="center"><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mDdnBykpu2NZej17c3HInterT5VIkY9PiyJ" height="320" alt="Routine"/></td>
+    <td align="center"><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mDdnBykpu2NZej17c3HqzRMCt8T5VIkY9PiyJ" height="320" alt="Routine"/></td>
   </tr>
   <tr>
     <td align="center"><b>Calendar</b></td>
