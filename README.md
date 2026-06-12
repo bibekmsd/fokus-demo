@@ -63,20 +63,20 @@ A modern productivity application built with Flutter that helps users manage dai
 
 ---
 
-## ✨ Features
+## Features
 
-* **🎯 Daily Mission Management**
+* **Daily Mission Management**
     * Create and manage daily missions with sleek UI interactions.
     * Organize and track progress metrics dynamically.
-* **📅 Calendar & Life Tracking**
+* **Calendar & Life Tracking**
     * Beautiful visual history maps to keep track of completed tasks.
     * Comprehensive breakdown over months and years.
-* **🔥 Habit Formation & Streaks**
+* **Habit Formation & Streaks**
     * Gamified streak system designed to maintain long-term consistency.
     * Milestone tracking with unlockable achievements and badges.
-* **📊 Productivity Analytics**
+* **Productivity Analytics**
     * Get precise breakdowns of daily and weekly completion rates.
-* **🎨 True Adaptable UI**
+* **True Adaptable UI**
     * Full support for unified Dark & Light themes with high-performance responsive components.
 
 ---
@@ -95,7 +95,7 @@ A modern productivity application built with Flutter that helps users manage dai
 
 ---
 
-## 🏗 Architecture
+## Architecture
 
 Fokus relies on a highly scalable, isolated **MVC Pattern** to separate logic layers efficiently:
 
