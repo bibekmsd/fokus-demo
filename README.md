@@ -90,7 +90,7 @@ A modern productivity application built with Flutter that helps users manage dai
 | **State Management** | GetX |
 | **Backend / Auth** | Nodejs & Firebase |
 | **Database** | PostgreSQL |
-| **Architecture** | MVC (Model-View-Controller) |
+| **Architecture** | MVCS (Model-View-Controller-Service) |
 | **Version Control** | Git & GitHub |
 
 ---
@@ -101,12 +101,23 @@ Fokus relies on a highly scalable, isolated **MVC Pattern** to separate logic la
 
 ```directory
 lib/
-├── models/        # Data layout blueprints and parsing
-├── controllers/   # GetX lifecycle states and operational logic
-├── views/         # High-fidelity visual components
-│   ├── screens/   # Standalone view pages
-│   └── widgets/   # Globally reusable atomic UI components
-├── services/      # Cloud APIs, Firebase actions, and DB connections
-├── routes/        # Main application routing maps
-├── utils/         # Enums, app constants, and custom themes
-└── main.dart      # Application bootstrapper
+fokus_new/lib/
+├── models/               ← M (Models)
+├── controllers/          ← C (Controllers) - GetX state management
+├── modules/              ← V (Views) - Feature-based organization
+│   ├── home/
+│   ├── settings/
+│   ├── missions/
+│   └── profile/
+├── services/             ← S (Services) - Business logic & API calls
+│   ├── mission_sync_service.dart
+│   ├── routine_sync_service.dart
+│   ├── network_service.dart
+│   └── local_notification_service.dart
+├── core/                 ← Core layer (Repositories, Local DB)
+│   ├── api/              ← API repositories
+│   └── local/            ← Hive database
+├── repositories/         ← Repository pattern for data access
+├── widgets/              ← Reusable UI components
+└── utils/                ← Helpers & constants
+
