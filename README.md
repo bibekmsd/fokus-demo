@@ -81,7 +81,7 @@ A modern productivity application built with Flutter that helps users manage dai
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |:---|:---|
