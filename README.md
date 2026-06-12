@@ -14,8 +14,11 @@ A modern productivity application built with Flutter that helps users manage dai
 
 ## 📱 Screenshots
 
+### Login 
+![Login](https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mAITsHkhKnIJrSwlyegtNUuWOPa0Dz6qmCvVj)
+
 ### Dashboard
-![Dashboard](YOUR_DASHBOARD_IMAGE_LINK)
+![Dashboard](https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mAd6n0LhKnIJrSwlyegtNUuWOPa0Dz6qmCvVj)
 
 ### Daily Missions
 ![Daily Missions](YOUR_MISSIONS_IMAGE_LINK)
