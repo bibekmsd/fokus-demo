@@ -7,7 +7,7 @@
 A modern productivity application built with Flutter that helps users manage daily missions, track habits, maintain streaks, and visualize progress through insightful analytics.
 
 [![Platform](https://img.shields.io/badge/Platform-Flutter%20%7C%20Dart-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
-[![Architecture](https://img.shields.io/badge/Architecture-MVC-green)](#-architecture)
+[![Architecture](https://img.shields.io/badge/Architecture-MVCS-green)](#-architecture)
 [![Status](https://img.shields.io/badge/Google%20Play-Coming%20Soon-orange?logo=google-play&logoColor=white)](#-availability)
 
 </div>
