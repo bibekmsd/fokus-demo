@@ -20,20 +20,28 @@ A modern productivity application built with Flutter that helps users manage dai
 ### Dashboard
 ![Dashboard](https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mAd6n0LhKnIJrSwlyegtNUuWOPa0Dz6qmCvVj)
 
-### Daily Missions
-![Daily Missions](YOUR_MISSIONS_IMAGE_LINK)
+### Add Missions
+![Add Missions](https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mjoRcUjXLoRXyskKNlcOh8wAuYEt6baCHIPiQ)
 
-### Analytics
-![Analytics](YOUR_ANALYTICS_IMAGE_LINK)
+### My Tasks
+![Today]([YOUR_MISSIONS_IMAGE_LINK](https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mudibzuN9jWKdpPAfgr0khw6JNbaDFveLUsxZ))
+![Completed Tasks](https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mTJeCoLcLYy8DKQ3aR5t2cPexSjsgbABJ71iw)
 
-### Calendar
-![Calendar](YOUR_CALENDAR_IMAGE_LINK)
+### Routine
+![Routine](https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mDdnBykpu2NZej17c3HqzRMCt8T5VIkY9PiyJ)
 
-### Achievements & Streaks
-![Achievements](YOUR_ACHIEVEMENTS_IMAGE_LINK)
+### Calendar 
+![Calendar](https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mEAe6GmnJOBT83LFgp40SuHYjxv7nVsZCNqcX)
 
-### Dark Theme
-![Dark Theme](YOUR_DARKMODE_IMAGE_LINK)
+###Life Tracker
+![Monthly Calendar](https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mZ835L9klTZa7g9i5Cm3SsKNy8HYewnthv0R2)
+![Yearly Calendar](https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mW6jmNuLc1f3rxiDUHZsLbIKe09n2zuW5otQj)
+
+
+### Profile
+![Profile](https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mnFPqpG7rMumseGiHLxEFCPR8vZ1lJ7w0DYX9)
+
+
 
 ---
 
