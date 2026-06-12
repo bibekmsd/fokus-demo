@@ -49,10 +49,11 @@ A modern productivity application built with Flutter that helps users manage dai
     <td><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mW6jmNuLc1f3rxiDUHZsLbIKe09n2zuW5otQj" max-height="320px" alt="Yearly Calendar"/></td>
   </tr>
   <tr>
-    <td align="center" colspan="3"><b>Profile</b></td>
+    <td align="center" colspan="3"><b>Profile and Settings</b></td>
   </tr>
   <tr>
     <td align="center" colspan="3"><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mnFPqpG7rMumseGiHLxEFCPR8vZ1lJ7w0DYX9" max-height="320px" alt="Profile"/></td>
+      <td align="center" colspan="3"><img src="https://kcm7tq9i12.ufs.sh/f/pJziTprsGA5mXMjCsfQzI78T9nX5CYkVuEiWwLAeqf60lorR" max-height="320px" alt="Profile"/></td>
   </tr>
 </table>
 </div>
